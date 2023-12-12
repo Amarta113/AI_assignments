@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Amarta113
-- 👀 I’m interested in programming, web development , app development and game development.
+- 👀 I’m interested in programming and artificial intelligence
 - 🌱 I’m currently learning computer science and externally a programming language java.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : github profile
