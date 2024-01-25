@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Amarta113
 - 👀 I’m interested in programming and artificial intelligence
-- 🌱 I’m currently learning computer science and externally a programming language java.
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently studying computer science.
+- 💞️ I’m looking to collaborate on real world projects to enhance my skills.
 - 📫 How to reach me : github profile
 
 <!---
